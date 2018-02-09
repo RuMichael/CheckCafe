@@ -10,6 +10,7 @@ namespace CheckCafe
     {
         static int Id_counter;  // счетчик работников      
         public string Position; // должность
+        
         public int Id_number { get; set; } // номер работника
 
         public Employee(string name, string adres, string phone, string position) : base(name, adres, phone)

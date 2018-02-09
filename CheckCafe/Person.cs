@@ -8,12 +8,12 @@ namespace CheckCafe
 {
     abstract class Person
     {
-        public string Name { get; set; } //фио
-        public string Adres { get; set; } // адрес
-        public string Phone_Number { get; set; } //номер телефона
+        protected string Name { get; set; } //фио
+        protected string Adres { get; set; } // адрес
+        protected string Phone_Number { get; set; } //номер телефона
         
 
-        public Person(string name, string adres, string phone)
+        protected Person(string name, string adres, string phone)
         {
             Name = name;
             Adres = adres;
@@ -21,17 +21,17 @@ namespace CheckCafe
         }
 
         #region // коррекция значений для класса
-        public static string create_phone()
+        public static string create_phone(string s)
         {
-            return "phone";
+            return "phone "+s;
         }
-        public static string create_name()
+        public static string create_name(string s)
         {
-            return "name";
+            return "name "+s;
         }
-        public static string create_adres()
+        public static string create_adres(string s)
         {
-            return "adres";
+            return "adres "+s;
         }
         #endregion
 
