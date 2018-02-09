@@ -1,0 +1,10 @@
+D:\Мишель\vs c#\CheckCafe\CheckCafe\bin\Debug\CheckCafe.exe.config
+D:\Мишель\vs c#\CheckCafe\CheckCafe\bin\Debug\CheckCafe.exe
+D:\Мишель\vs c#\CheckCafe\CheckCafe\bin\Debug\CheckCafe.pdb
+D:\Мишель\vs c#\CheckCafe\CheckCafe\obj\Debug\CheckCafe.csprojResolveAssemblyReference.cache
+D:\Мишель\vs c#\CheckCafe\CheckCafe\obj\Debug\CheckCafe.Form1.resources
+D:\Мишель\vs c#\CheckCafe\CheckCafe\obj\Debug\CheckCafe.Properties.Resources.resources
+D:\Мишель\vs c#\CheckCafe\CheckCafe\obj\Debug\CheckCafe.csproj.GenerateResource.Cache
+D:\Мишель\vs c#\CheckCafe\CheckCafe\obj\Debug\CheckCafe.csproj.CoreCompileInputs.cache
+D:\Мишель\vs c#\CheckCafe\CheckCafe\obj\Debug\CheckCafe.exe
+D:\Мишель\vs c#\CheckCafe\CheckCafe\obj\Debug\CheckCafe.pdb
